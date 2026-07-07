@@ -1,6 +1,5 @@
-<table>
-<tr>
-<td>
+<img align="right" width="260" height="200"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
 
 # Welcome! 👋
 
@@ -9,7 +8,6 @@ I'm Everton!
 Let me introduce myself.
 
 Backend Software Engineer focused on Java and Spring Boot.
-
 Technology, gaming and software development enthusiast. ❤️
 
 ## About me
@@ -17,18 +15,6 @@ Technology, gaming and software development enthusiast. ❤️
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/EvertonHSoethe)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/everton-soethe-88b26bbb/)
-
-</td>
-
-<td>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="350"/>
-
-</td>
-</tr>
-</table>
-
----
 
 ## Tech Stack
 
