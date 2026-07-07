@@ -1,18 +1,34 @@
-<img align="right" width="400" height="400"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93NWw2Y3AycTMyaGxwNXY1dHEzM2RwMjdzdDUzZ3R4eXlzNHM2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
-# Welcome!
-## I'm Everton! Let me present a little about myself 
-Developer focused in Java on Spring boot | Software engineer :robot:
-Lover of Technology/games and coding :heart:
+# Welcome! 👋
+
+I'm Everton!
+
+Let me introduce myself.
+
+Backend Software Engineer focused on Java and Spring Boot.
+Technology, gaming and software development enthusiast. ❤️
+
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
-square&logo=Github&logoColor=white&link=https://github.com/EvertonHSoethe)]
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/EvertonHSoethe)
 
-(https://github.com/EvertonHSoethe)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/everton-soethe-88b26bbb/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/everton-soethe-88b26bbb/)](linkedin.com/in/everton-soethe-88b26bbb/)
+## Tech Stack
 
-- Thanks for visiting.
-- Enjoy it!!
+- Java 21
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Spring Batch
+- AWS SQS/SNS
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- Kubernetes
+- AWS
+- GitHub Actions
+- JUnit 5
+- Testcontainers
+
+Thanks for visiting! 🚀
