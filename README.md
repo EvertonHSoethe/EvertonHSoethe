@@ -16,9 +16,9 @@ Technology, gaming and software development enthusiast. ❤️
 
 </td>
 
-<td width="35%" align="right">
+<td width="55%" align="right">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="280" height="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="300" height="200"/>
 
 </td>
 </tr>
