@@ -1,5 +1,8 @@
 # Welcome! 👋
 
+<img align="right" width="400" height="300"
+src="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre">
+
 I'm Everton!
 
 Let me introduce myself.
