@@ -19,7 +19,7 @@ Technology, gaming and software development enthusiast. ❤️
   <td width="25%" align="right" valign="top">
     <img
       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"
-      width="260"
+      width="500"
     />
   </td>
 </tr>
