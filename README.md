@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 I'm **Everton**!
 
@@ -16,7 +16,7 @@ Technology, gaming and software development enthusiast. ❤️
 
 </td>
 
-<td width="55%" align="right">
+<td width="65%" align="right">
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNyZG9qODlqMTNvYmJxNmJxbjI1NWY0dWNhNjIyaGpsbDdxMzFtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="300" height="200"/>
 
