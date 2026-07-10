@@ -48,5 +48,7 @@ Technology, gaming and software development enthusiast. ❤️
 - GitHub Actions
 - JUnit 5
 - Testcontainers
+- Unleash
+- Intellij IDEA Ultimate
 
 Thanks for visiting! 🚀
